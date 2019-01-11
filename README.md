@@ -18,3 +18,4 @@ divisible by 3 and 5. Create it as simply
 as possible, then refactor to only
 perform each division once.
 ```
+* Note that Jazz is a bonus for the fizzbuzz exercise.
